@@ -42,7 +42,7 @@ Name: Victor Udeh
 
 Email: victor.o.udeh@gmail.com
 
-##Acknowledgements
+Acknowledgements
 
 Special thanks to the instructors and teaching assistants of SNHU CS-210-R1802.
 Gratitude for open-source libraries used in this project.
